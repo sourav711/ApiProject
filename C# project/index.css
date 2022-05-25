@@ -1,0 +1,26 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: none;
+    align-items: center;
+    margin-left:32vw;
+} 
+#div1{
+   margin:auto;
+height:300px;
+width:500px;
+text-align: center;
+border: none;
+
+}
+div{
+    text-align: center;
+
+    padding: 30px;
+
+    border: 2px solid black;
+    margin:20px;
+    
+}
